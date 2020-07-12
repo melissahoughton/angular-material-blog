@@ -1,5 +1,7 @@
 # AngularMaterialBlog
 
+**Tutorial for this project is found on my blog: [Getting Started with Angular Material](https://melissahoughton.dev/2020/07/12/angular-material.html)**
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
 ## Development server
